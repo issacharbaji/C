@@ -5,28 +5,28 @@ be by first prompting them for a positive integer between, say, 1 and 8, inclusi
 
 Here’s how the program how will work if the user inputs 8 when prompted:
 
-       #  #
-      ##  ##
-     ###  ###
-    ####  ####
-   #####  #####
-  ######  ######
- #######  #######
-########  ########
+           #  #
+          ##  ##
+         ###  ###
+        ####  ####
+       #####  #####
+      ######  ######
+     #######  #######
+    ########  ########
 
 Here’s how the program how will work if the user inputs 4 when prompted:
 
-   #  #
-  ##  ##
- ###  ###
-####  ####
+          #  #
+         ##  ##
+        ###  ###
+       ####  ####
 
 Here’s how the program how will work if the user inputs 4 when prompted:
 
-   #  #
-  ##  ##
- ###  ###
-####  ####
+          #  #
+         ##  ##
+        ###  ###
+       ####  ####
 
 Notice that width of the “gap” between adjacent pyramids is equal to the width of two hashes, irrespective of the pyramids’ heights.
 
