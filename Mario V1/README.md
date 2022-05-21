@@ -21,7 +21,7 @@ And here’s how the program will work if the user inputs 1 when prompted:
 
        #
 
-Kindly note that if the user enter a negative or out of range integer, the program should continuously asking for a positive integer as follow:
+Kindly note that if the user enter a negative or out of range integer, the program should continuously asking for an integer as follow:
 
   Height: -1
   
